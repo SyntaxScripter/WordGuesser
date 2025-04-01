@@ -9,6 +9,10 @@ this project is a simple wordguesser game written in python
 ```bash
 git clone https://github.com/SyntaxScripter/WordGuesser.git
 
+```
+```bash
 cd WordGuesser
-
+```
+```bash
 python main.py
+```
